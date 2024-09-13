@@ -1,4 +1,4 @@
-As a dedicated Computer Science major at University of Central Florida, my mission is to leverage my passion 
-for coding and innovative thinking to create new, cutting-edge solutions in the ever-evolving world of 
-technology. I am committed to applying my skills and knowledge to drive positive change, tackle complex 
-challenges, and contribute to the advancement of the digital landscape.
+I’m currently a Computer Science student at the University of Central Florida, with a focus on Data Science and Machine 
+Learning. I enjoy using data and algorithms to solve complex problems and exploring how technology can improve our 
+lives. I’ve worked on projects that combine my passion for finance and programming, such as algorithmic trading and 
+data analysis
